@@ -5,4 +5,4 @@ template = 'home.html'
 lang = 'en'
 +++
 
-Words about you
+A personal blog about [eco|techno]logy and other musings
