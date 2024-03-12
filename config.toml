@@ -43,7 +43,7 @@ anchors = "on"
 
 name = "Trevor Gamblin"               # Your name
 id = "threexc"                        # Your id / username / handle
-bio = "Just generating entropy"       # Your bio
+bio = "Generating entropy"            # Your bio
 avatar = "img/avatar.webp"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/threexc" },
