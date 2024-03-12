@@ -1,10 +1,3 @@
-# serene v3.2.0
-#
-# - docs: https://github.com/isunjn/serene/blob/latest/USAGE.md
-# - check for updates: https://github.com/isunjn/serene/releases
-#
-#=========================================================================================
-
 base_url = "https://ecocode.ca"      # Domain name of your website
 title = "ecocode"
 description = "A personal blog about [eco|techno]logy and other musings"
@@ -62,6 +55,7 @@ sections = [
     { name = "about", path = "/about", is_external = false },
     { name = "github", path = "https://github.com/threexc", is_external = true },
 ]
+
 blog_section_path = "/posts"
 
 nav_separator = "::"
@@ -69,8 +63,8 @@ nav_wrapper_left = "{"
 nav_wrapper_right = "} ;"
 nav_wrapper_separator = ","
 
-display_id = true                     # Whether to display your id on homepage
-blog_categorized = true               # Whether to categorize blog posts
+display_id = true                     # Display your id on homepage
+blog_categorized = false              # Whether to categorize blog posts
 blur_effect = true                    # Whether to turn on blur effect on navigation bar
 back_to_top = true                    # Whether to show back-to-top button on post pages
 
@@ -86,7 +80,7 @@ outdate_alert_text_before = "This article was last updated "
 outdate_alert_text_after = " days ago and may be out of date."
 
 footer_copyright = "© 2024 Trevor Gamblin"
-footer_credits = true                 # Whether to show "powered by zola and serene" in footer
+footer_credits = true                 # Whether to show "Powered by Zola and Serene" in footer
 
 not_found_title = "404"
 not_found_error_text = "Not Found"
