@@ -93,10 +93,10 @@ Here's my entire `.vimrc`:
 I've had many discussions over the years about text editor preferences, and once
 had a brief stint using [neovim](https://neovim.io/) (which has some cool
 distros), but using what I do for a text editor gives me that extra peace of
-mind that I'm not using too many extras that might break unexpectedly. Also, it
+mind that I'm not using too many addons that might break unexpectedly. Also, it
 seems to serve me well given the frequency with which I find myself logging into
 servers and custom-built embedded systems that might not have anything but the
-stock version (or even just the [busybox](https://www.busybox.net/) version).
+stock version (or even just the [busybox](https://www.busybox.net/) variant).
 
 ### Web Browser
 
