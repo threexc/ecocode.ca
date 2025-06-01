@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "A about page of ..."
+description = "An about page of ..."
 template = "prose.html"
 insert_anchor_links = "none"
 
@@ -25,7 +25,3 @@ particularly:
 
 This site is named "ecocode" because I am interested in ecosystems and
 how our social and technological choices relate to them.
-
-While most of what I post here will involve embedded systems and tools
-for working with them, other topics such as ecology, anthropology, and
-mathematics may be found as well.

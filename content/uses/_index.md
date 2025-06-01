@@ -16,40 +16,13 @@ comment = false
 
 This page is inspired by the one found [here](https://www.paritybit.ca/uses/).
 
-## General
-
-Over the last year or so, my preferences have drifted towards stability
-and minimal configuration. While I make using FOSS whenever and wherever
-possible a priority, I also don't want to spend a ton of time
-reconfiguring my operating system or tweaking plugins for a favourite app
-to get that extra bit of performance and customization. There's probably
-stuff I'm missing out on, but it ends up being so much more to maintain.
-That means that in some cases my favourites are actually older than I
-am!
-
 ## Operating System
 
-[Debian](https://www.debian.org/) 12 (Bookworm), everywhere. I recently made the
-switch from Fedora, which I was a longtime user of (after having started my
-Linux journey on Ubuntu). There were a lot of reasons that slowly built towards
-this shift (see [General](#general), above), but the big two were:
-
-1. The increasing frequency of issues trying to build the latest changes
-  to Yocto's core layers with the hot-off-the-presses tooling in Fedora;
-2. Better default toolchain access for cross-compiling, e.g. to
-  arm/arm64.
-
-I know that there are lots of ways to work around these issues
-(containers, VMs, other machines, etc.), but following the
-do-less-plumbing principle means using the OS that reduces the grind
-time. It turns out that I also like what I see from Debian's design
-choices a bit more, especially its preference for not allowing global
-installs of Python modules with pip, recommending a virtualenv (or pipx)
-instead.
-
-## Shell
-
-[Bash](https://www.gnu.org/software/bash/). Default, default, default.
+I recently switched back to [Fedora](https://fedoraproject.org/) from
+[Debian](https://www.debian.org/) 12 (Bookworm) on my build box, and
+I'll do it with my laptop soon too. I switched over for a while due to
+some default toolchain options, but felt homesick. I still use Debian
+for some container workflows and any other lab systems by default.
 
 ## Text Editor
 
@@ -90,13 +63,11 @@ Here's my entire `.vimrc`:
 
 	let g:airline_powerline_fonts = 1
 
-I've had many discussions over the years about text editor preferences, and once
-had a brief stint using [neovim](https://neovim.io/) (which has some cool
-distros), but using what I do for a text editor gives me that extra peace of
-mind that I'm not using too many addons that might break unexpectedly. Also, it
-seems to serve me well given the frequency with which I find myself logging into
-servers and custom-built embedded systems that might not have anything but the
-stock version (or even just the [busybox](https://www.busybox.net/) variant).
+I once had a brief stint using [neovim](https://neovim.io/) (which has
+some cool distros), but I like being relatively close to what I might
+find on servers and custom-built embedded systems that might not have
+anything but the stock version (or [busybox](https://www.busybox.net/)
+variant).
 
 ### Web Browser
 
@@ -129,8 +100,8 @@ My daily driver is a Lenovo ThinkPad T14s with 16GB of DDR4 RAM and a
 Ryzen 5650U in it. It was acquired used from eBay, and I'm quite happy
 with it. I've recently added a 1TB CT1000P3PSSD8 drive, replacing the
 256GB NVMe drive it came with. It feeds two LG 27" 1440p monitors
-through a Lenovo USB-C dock. I wouldn't say it's a powerful workhorse by
-any means, but it gets the job done.
+through a Lenovo USB-C dock. I wouldn't say it's powerful by any means,
+but it gets the job done.
 
 ### Build Server
 
@@ -150,16 +121,18 @@ specs:
 - **PSU:** Corsair RM850e (2023) Fully Modular Low-Noise ATX Power Supply
 - **Monitor:** LG Ultragear 27GL83A-B (x2)
 
-The goal with this build (completed summer 2024) was as much
-cost-effectiveness and power consumption as it was performance. None of
-the parts were the most jaw-dropping options even when I started pricing
-it out, but it gets the job done and is surprisingly quiet, while taking
-up very little space. I used to buy off-lease Dell, HP, and Lenovo
-workstations to use as my build servers, but those only get
-hobbyist-cheap after they've been around for 6+ years, and at that point
-they seem a lot less efficient than just building something new like
-this. It also handles what little gaming I still do these days, thanks
-to that lower-mid-range RX 6600 GPU.
+The goal with this build (completed summer 2024) was decent performance
+in a small form factor. None of the parts were the most jaw-dropping
+options even when I started pricing it out, but it gets the job done and
+is surprisingly quiet, while taking up very little space. I used to buy
+off-lease Dell, HP, and Lenovo workstations to use as my build servers,
+but those only get hobbyist-cheap after they've been around for 6+
+years, and at that point they seem a lot less efficient than just
+building something new like this. It also handles the gaming I still do
+these days, thanks to that lower-mid-range RX 6600 GPU.
+
+**EDIT (May 31st, 2025):** I've upgraded my graphics card to the RX 7600
+XT.
 
 ### Peripherals
 
@@ -172,9 +145,7 @@ laptop and server (when I'm not just using SSH) via an [Aimos KVM
 Switch](https://www.amazon.ca/Selector-AIMOS-Switcher-Computers-One-Button/dp/B085915CTB).
 ### Phone
 
-Whatever's relatively cheap and comes with an acceptable level of bloat.
-This pretty much always means Android. Right now it's a **Samsung Galaxy
-A54 5G** I got off of Amazon.
+Right now it's a **Samsung Galaxy A54 5G** I got off of Amazon.
 
 ### Test Equipment
 
@@ -183,14 +154,11 @@ A54 5G** I got off of Amazon.
 - **Logic Analyzer:** [Saleae Logic 8](https://www.saleae.com/products/saleae-logic-8)
 - **Multimeter:** [Fluke 117](https://www.fluke.com/en-ca/product/electrical-testing/digital-multimeters/fluke-117)
 
-I've got a variety of random electronics parts for building stuff (like most
-hobbyists, I think) that sit in drawers for long periods of time before being
-pulled out to test something or tinker. The DS1054 and SDG 1032X, followed by
-the Logic 8, see by far the most action as I find myself working on IIO drivers
-for the Linux kernel. I do have a Weller soldering iron and a 300W test bench
-power supply, but since most dev kits seem to run off of USB power or 5V/9V/12V
-adapters these days, those tend to sit in a box rather than taking up desk
-space.
+The DS1054 and SDG 1032X, followed by the Logic 8, see by far the most
+action as I find myself working on IIO drivers for the Linux kernel. I
+do have a Weller soldering iron and a 300W test bench power supply, but
+since most dev kits seem to run off of USB power or 5V/9V/12V adapters
+these days, those tend to sit in a box rather than taking up desk space.
 
 ### Homelab
 
