@@ -23,6 +23,7 @@ majority of it.
 - [openembedded-core](https://git.openembedded.org/openembedded-core/log/?qt=grep&q=Trevor+Gamblin)
 - [meta-openembedded](https://git.openembedded.org/meta-openembedded/log/?qt=grep&q=Trevor+Gamblin)
 - [meta-patchtest](https://git.yoctoproject.org/meta-patchtest/) - not filtered, but it's low traffic and I write most commits that happen now
+- [meta-riscv](https://github.com/riscv/meta-riscv/commits/master/?author=threexc)
 - [yocto-autobuilder2](https://git.yoctoproject.org/yocto-autobuilder2/log/?qt=grep&q=Trevor+Gamblin)
 - [yocto-autobuilder-helper](https://git.yoctoproject.org/yocto-autobuilder-helper/log/?qt=grep&q=Trevor+Gamblin)
 - [yocto-docs](https://git.yoctoproject.org/yocto-docs/log/?qt=grep&q=Trevor+Gamblin)
