@@ -3,8 +3,6 @@ title = "The Birds Are Back"
 date = 2026-03-19
 +++
 
-## Introduction
-
 There are two birds in this picture:
 
 ![One Handsome Fellow](march_cardinal.jpg "A northern cardinal")

@@ -3,6 +3,8 @@ title = "Thoughts on Backyard Ecology"
 date = 2025-05-26
 +++
 
+# Introduction 
+
 My wife and I bought a house in eastern Ontario during the spring of
 2023, wanting to reduce the distance from friends and family while also
 gaining some independence, particularly with being outdoors (our
