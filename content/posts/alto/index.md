@@ -34,12 +34,12 @@ this article is **not**:
   projects;
 - Ignorance towards historically exploitative, dismissive, and otherwise one-way
   relationships between Canada and First Nations regarding land use, resource
-  extraction, and so on, the trends of which this project will probably continue
-  (even though it mentions consultations are ongoing);
+  extraction, and other obligations, the trends of which this project will
+  probably continue (even though it mentions consultations are ongoing);
 - One of the usual arguments like "the country is simply too big", "it's too
-  cold here for the trains to work", "it'd cost too much", and so on. These
-  are solved problems in other parts of the world. We don't need to keep
-  pretending we're on our own;
+  cold here for the trains to work", "it'd cost too much", and so on. These are
+  solved problems in other parts of the world. We don't need to keep pretending
+  we're on our own;
 - A partisan position, i.e. opposition because the former PM and/or the team
   wearing red gets credit;
 - Me pretending that I'm unbiased.
@@ -70,7 +70,7 @@ Here come some numbers for an example trip, using these assumptions:
 | Fuel Cost (CAD)                          | 150               | X            | X             | X             |
 | Ticket Cost (CAD)                        | X                 | 161          | **?**         | 493           |
 | Other Costs (e.g. bus, subway, in CAD)   | X (optional)      | 25           | 25            | 25            |
-| Time Spent (hours)                       | 4.5               | 4.5          | 2             | 3             |
+| Time Spent (hours, one way)              | 5                 | 4.5          | 2             | 3             |
 | Attention                                | Occupied          | Free         | Free          | Free          |
 
 It goes without saying that **all** of these options are expensive for someone
@@ -86,25 +86,38 @@ option means you need to own and maintain a vehicle, which is a frustrating and
 expensive barrier-to-entry for people to access many modes of living. When
 climate and environmental consequences are considered, all of them tend to look
 even worse (although if Alto or standard trains were electrified, that'd be a
-point in their favour). If the project goes forward, the question becomes:
+point in their favour). For comparison, here's table [from
+Wikipedia](https://en.wikipedia.org/wiki/Alto_(high-speed_rail)#Travel_times) showing
+estimated times:
 
-**What will an HSR fare cost, and will it be appealing to consumers?**
+![Ontario is big](table.png "To Drive, or Not to Drive?")
+
+## What Will an Alto Fare Cost?
 
 I think that this is potentially the single most important question to be asked
-about this project. Once all of the sacrifices are made, and it's pushed through
-despite myriad objections, will anyone actually want (or be able) to use it?
-Looking at the table above and considering **only** the raw time ratios (2.25
-and 1.5 for train/HSR and flight/HSR, respectively), the HSR fare can be at most
-about **$362** for a single adult. The problem with this line of thinking,
-however, is that VIA Rail services would almost certainly become unviable once
-Alto was complete - their 2023 [annual
+about this project. By extension, once all of the sacrifices are made despite
+myriad objections, will anyone actually be able (or want) to use it?  
+
+![A Train?!](gilles.jpg "We're still waiting for the answer")
+
+Looking at the table from earlier and considering **only** the raw time ratios
+(2.25 and 1.5 for train/HSR and flight/HSR, respectively), the HSR fare can be
+at most about **$362** for a single adult. The problem with this line of
+thinking, however, is that VIA Rail services would almost certainly become
+unviable once Alto was complete - their 2023 [annual
 report](https://media.viarail.ca/sites/default/files/publications/397_034_VIARAIL_ANNUAL-REPORT-2023.pdf)
 mentions that **96%** of passenger trips were taken along the Quebec
 City-Windsor corridor - so the 1.5x multiplier from the flight comparison is
 more apt, meaning an HSR fare for a single adult in our round-trip hypothetical
 could be a whopping **$739**, while remaining "appealing" compared to a flight.
-It's unlikely that the time ratio is the only factor that goes into the price or
-consumer choice, but still, good luck selling that one.
+It's unlikely that the time ratio is the only factor that goes into the price,
+though, and more importantly the argument falls apart pretty quickly with access
+to "cheap" fuel and a vehicle if you actually want to minimize your travel
+budget. Will these be the case in 20 years when Alto is up and running? Hard to
+say, but for now other forms of transportation are really expensive. Unless
+costs come down across the board, I don't see how Alto is going to be any more
+appealing than the decision to drive, even if it means taking 2.5 times as long
+(or more, with rush hour traffic).
 
 ## A European Comparison
 
@@ -112,20 +125,41 @@ TBD
 
 ## Imagining: A $20 Fare?
 
-It's worth repeating, before going any further: **public services should not be
-expected to turn a profit**. That doesn't mean we should be careless with
-expenditures, but instead of letting profit be the deciding factor, we need to
-look such programs in terms of how they let people lead more fulfilling lives.
-Sometimes that means shrugging and accepting a tax rate for a program that you
-don't even benefit from (by choice, geography, or otherwise) yourself.
+It's worth repeating: **public services should not be expected to turn a
+profit**. That doesn't mean we should be careless with expenditures, but instead
+of letting profit be the deciding factor, we need to look such programs in terms
+of how they let people lead more fulfilling lives. We know that Alto is expected
+to service roughly half of the country's population
 
 # Ecologies and Borderization
+
+## The Energy Dilemma
+
+- more of the same means more dependency on diesel and thus oil - what room is
+  there to consider building brand new infrastructure on this? There is an
+  argument to be made that we're already a decade or two behind the curve for
+  electrifying national infrastructure
+- Note that the project won't be done for 20 years - what is the safest energy
+  source to bet on with that time horizon? Probably not anything oil-based
+
+  TBD
+
+## Roads (and Rails) as Borders
+
+- Necropolitical look at the road and railway as a border, borderization effect,
+  danger/death association
+  - HSR is a more extreme example because of speed, electricity, more stringent
+    safety requirements
+- Further fragmentation of already disconnected ecosystems, communities
+- How do we elevate it? Are there new designs that solve some of these issues?
 
 TBD
 
 # Degrowth and Taking Things Slower
 
 TBD
+
+# Closing Thoughts
 
 # WIP Notes/Questions
 
