@@ -1,6 +1,6 @@
 +++
 title = "Alto"
-date = 2026-03-29
+date = 2026-04-04
 
 [extra]
 toc = true
@@ -8,41 +8,46 @@ toc = true
 
 # Introduction
 
-Lately, it seems like many people in my town (and the wider province) are
-discussing the [Alto](https://www.altotrain.ca/en) project. My general
-impression from those conversations is one of high skepticism, at best. Between
-concerns about cost, environmental impact, land expropriation, urban-rural
-divides, corruption, and maybe some simple NIMBYism, there are a lot of
-different angles to consider from the "no" camp. I find myself with thoughts,
-which you're about to read (stop while you can).
+Recently, a good friend of mine brought up the
+[Alto](https://www.altotrain.ca/en) high-speed rail (HSR) project. My initial
+reaction was very enthusiastic, but I hadn't grounded myself in many of the
+details. Since then I've been pondering and researching the project almost
+daily, while trying to get a feel for local and regional positions on the
+matter. My general impression toward Alto is one of high skepticism, at best,
+and public sentiment (which, admittedly, I've picked up on primarily from social
+media and reports around public consultations from Alto's representatives) isn't
+optimistic either. Between concerns about cost, environmental impact, land
+expropriation, urban-rural divides, corruption, and maybe some simple NIMBYism,
+there are a lot of different angles to consider from the "no" camp. I find
+myself with thoughts, which you're about to read (stop while you can).
 
 # The "Nots"
 
-To be clear, I'm not against high-speed rail (HSR) as a concept. I think that
-serious and iterative commitment to building and improving public services -
-including infrastructure - is something that we are sorely missing as a society.
-A regional or even coast-to-coast HSR network is a transformative example of
-this, and it would dramatically alter the lives of nearly everyone across this
-land, often in unexpected ways. I find the lack of creativity in the public
-discourse about Alto very frustrating, but while I suspect that contrarianism
-plays a big part, it seems clear that there are valid concerns about it. So,
-this article is **not**:
+To be clear, I'm not against HSR as a concept. In fact, I think that serious and
+iterative commitment to building and improving public services - including
+infrastructure - is something that we are sorely missing as a society. A
+regional or even coast-to-coast HSR network is a transformative example of this,
+and it would dramatically alter the lives of nearly everyone across this land,
+often in unexpected ways. I find the lack of creativity in the public discourse
+about Alto very frustrating, but while I suspect that contrarianism plays a big
+part, it seems clear that there are valid concerns about it. So, this article is
+**not**:
 
-- A dismissal of the benefit to the vast majority of people in the urban centers
-  which would receive stations;
-- A suggestion that any opposition should stop research and development of such
-  projects;
-- Ignorance towards historically exploitative, dismissive, and otherwise one-way
-  relationships between Canada and First Nations regarding land use, resource
-  extraction, and other obligations, the trends of which this project will
-  probably continue (even though it mentions consultations are ongoing);
-- One of the usual arguments like "the country is simply too big", "it's too
-  cold here for the trains to work", "it'd cost too much", and so on. These are
-  solved problems in other parts of the world. We don't need to keep pretending
-  we're on our own;
-- A partisan position, i.e. opposition because the former PM and/or the team
-  wearing red gets credit;
-- Me pretending that I'm unbiased.
+1. A dismissal of Alto's hypothetical benefits to those who would have access to
+   it;
+2. A suggestion that the existence of opposition should stop further research
+   and development toward such projects;
+3. Ignorance towards historically exploitative, dismissive, and otherwise
+   one-way relationships between Canada and First Nations regarding land use,
+   resource extraction, and treaty obligations, the trends of which this project
+   will probably continue (even though it mentions consultations are ongoing);
+4. One of the usual arguments like "the country is simply too big", "it's too
+   cold here for the trains to work", "it'd cost too much", and so on. These are
+   solved problems in other parts of the world. We don't need to keep pretending
+   we're on our own;
+5. A partisan position, i.e. opposition because the former PM and/or the team
+   wearing red gets credit;
+6. Me pretending that I'm unbiased.
 
 Let's get into it.
 
@@ -58,6 +63,13 @@ Here come some numbers for an example trip, using these assumptions:
   trains via Google, using results for Westjet and VIA Rail, respectively. 
 - Fuel cost assumes there and back, plus some city driving, in a mid-sized SUV.
   It's probably closer to $200 at current per-litre costs.
+- "Other Costs" is broad and meant to encompass everything from bus/subway fares
+  to a one-off Uber ride, which can vary wildly in price. For the driver's case,
+  it's also meant to cover parking. As of today, TTC
+  [fares](https://www.ttc.ca/Fares-and-passes) are around $3.30 per ride for a
+  single adult. There are lots of variables here, and those who've made similar
+  trips before will likely attest to many mixed solutions they've come up with
+  to save cash.
 - **The train and flight ticket prices are for a single adult** - for a family,
   driving is by far the most affordable option.
 - Time spent for the car assumes at least one short stop to stretch, use the
@@ -65,12 +77,12 @@ Here come some numbers for an example trip, using these assumptions:
   an hour before departure. The train is simplest here.
 
 
-| Item                                     | Car               | Train        | HSR           | Flight        |
+| Item                                     | Car               | VIA Rail     | HSR           | Flight        |
 | ---------------------------------------- | ----------------- | ------------ | ------------  | ------------- |
 | Fuel Cost (CAD)                          | 150               | X            | X             | X             |
 | Ticket Cost (CAD)                        | X                 | 161          | **?**         | 493           |
-| Other Costs (e.g. bus, subway, in CAD)   | X (optional)      | 25           | 25            | 25            |
-| Time Spent (hours, one way)              | 5                 | 4.5          | 2             | 3             |
+| Other Costs (e.g. bus, subway, in CAD)   | 100               | 50           | 50            | 50            |
+| Time Spent (hours, one way)              | 4.5               | 4.5          | 2             | 3             |
 | Attention                                | Occupied          | Free         | Free          | Free          |
 
 It goes without saying that **all** of these options are expensive for someone
@@ -78,104 +90,211 @@ earning the median or average incomes (using [2023
 numbers](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110023901)) of
 $45,400 or $59,400 per year, respectively, so it's easy to understand how
 critics would perceive this project to be by and for a much wealthier
-demographic. I don't see any indication that the Alto project is intended to
-solve this problem of access (but more on that in a bit). There are also hidden
-factors baked into those options to consider - for example, unless you use a
-carsharing service like [Communauto](https://ontario.communauto.com/), the first
-option means you need to own and maintain a vehicle, which is a frustrating and
-expensive barrier-to-entry for people to access many modes of living. When
-climate and environmental consequences are considered, all of them tend to look
-even worse (although if Alto or standard trains were electrified, that'd be a
-point in their favour). For comparison, here's table [from
-Wikipedia](https://en.wikipedia.org/wiki/Alto_(high-speed_rail)#Travel_times) showing
-estimated times:
+demographic. I don't see any indication that Alto expected to solve these
+problems of access and affordability. There are also hidden factors baked into
+those options to consider - for example, unless you use a carsharing service
+like [Communauto](https://ontario.communauto.com/), the first option means you
+need to own and maintain a vehicle, which is a frustrating and expensive
+barrier-to-entry for people to access many modes of living. When climate and
+environmental consequences are considered, all of them tend to look even worse
+(although Alto will be electric, which is a point in its favour). For
+comparison, here's table [from
+Wikipedia](https://en.wikipedia.org/wiki/Alto_(high-speed_rail)#Travel_times)
+showing estimated times:
 
 ![Ontario is big](table.png "To Drive, or Not to Drive?")
 
 ## What Will an Alto Fare Cost?
 
 I think that this is potentially the single most important question to be asked
-about this project. By extension, once all of the sacrifices are made despite
-myriad objections, will anyone actually be able (or want) to use it?  
+about this project: once all of the sacrifices are made despite myriad
+objections, will anyone actually be able (or want) to use it?  
 
-![A Train?!](gilles.jpg "We're still waiting for the answer")
+![How much?](gilles.jpg "We're still waiting for the answer")
 
-Looking at the table from earlier and considering **only** the raw time ratios
-(2.25 and 1.5 for train/HSR and flight/HSR, respectively), the HSR fare can be
-at most about **$362** for a single adult. The problem with this line of
-thinking, however, is that VIA Rail services would almost certainly become
-unviable once Alto was complete - their 2023 [annual
-report](https://media.viarail.ca/sites/default/files/publications/397_034_VIARAIL_ANNUAL-REPORT-2023.pdf)
-mentions that **96%** of passenger trips were taken along the Quebec
-City-Windsor corridor - so the 1.5x multiplier from the flight comparison is
-more apt, meaning an HSR fare for a single adult in our round-trip hypothetical
-could be a whopping **$739**, while remaining "appealing" compared to a flight.
-It's unlikely that the time ratio is the only factor that goes into the price,
-though, and more importantly the argument falls apart pretty quickly with access
-to "cheap" fuel and a vehicle if you actually want to minimize your travel
-budget. Will these be the case in 20 years when Alto is up and running? Hard to
-say, but for now other forms of transportation are really expensive. Unless
-costs come down across the board, I don't see how Alto is going to be any more
-appealing than the decision to drive, even if it means taking 2.5 times as long
-(or more, with rush hour traffic).
+To answer this, the best place to start looking may be a recent
+[study](https://tram.mcgill.ca/Research/Surveys/HSR_REPORT_2026.pdf) published
+by McGill in late 2025 (updated 2026), which my aforementioned friend pointed
+out. Notably, it is based on a survey which (after a data validation step) only
+includes 8,276 responses, all of whom are distributed among the cities with
+proposed stops - so, excluding the many communities along the route but without
+direct access, along with everybody further afield in other regions of the
+country. This seems fine for estimating ridership, station preference, and so
+on, but not other categories such as perceived benefits or concerns.
 
-## A European Comparison
+The most interesting analysis there is the "Willingness to Pay" section, which
+suggests that **prospective riders would only be willing to pay about $25 more
+per fare than for VIA Rail.** Using our single-adult hypothetical from earlier,
+that'd mean the round-trip cost for Alto would be **$186**. That doesn't sound
+too bad, especially when you compare it to the flight.
 
-TBD
+Two problems:
 
-## Imagining: A $20 Fare?
+1. Most people are going to compare costs, see that the train is more expensive,
+   and choose to drive anyway - especially when the apparent flexibility of
+   driving versus being bound to train and public transit schedules is
+   considered (and despite potential parking fees);
+2. **VIA Rail services seem unlikely to remain viable once Alto was complete** -
+   their 2023 [annual
+   report](https://media.viarail.ca/sites/default/files/publications/397_034_VIARAIL_ANNUAL-REPORT-2023.pdf)
+   mentions that **96%** of passenger trips were taken along the Quebec
+   City-Windsor corridor, at least not without a major re-imagining.
 
-It's worth repeating: **public services should not be expected to turn a
-profit**. That doesn't mean we should be careless with expenditures, but instead
-of letting profit be the deciding factor, we need to look such programs in terms
-of how they let people lead more fulfilling lives. We know that Alto is expected
-to service roughly half of the country's population
+To reiterate, all of this is also assuming a single adult is making the trip -
+the argument falls apart pretty quickly with access to "cheap" fuel and a
+vehicle if you are going with friends and/or family. Will this be the case in 20
+years when Alto is up and running? It's hard to say, but for now other forms of
+transportation are really expensive. Unless costs come down across the board, I
+don't see how Alto is going to be any more appealing than the decision to drive,
+even if it means taking 2.5 times as long (or more, with rush hour traffic).
 
-# Ecologies and Borderization
+## Which Problem Are We Solving?
 
-## The Energy Dilemma
+If we want to see serious adoption of public transit from a majority of the
+population, then the real issue is that these services are already too expensive
+for most riders. I'm not quite as concerned about Alto's engineering aspects or
+the price tag - we can get ideas of what to expect from other countries who've
+worked on megaprojects before. To be fair, this is already happening -
+[Cadence](https://cadence.info/en/about-us) includes [SNCF
+Voyageurs](https://www.sncf-voyageurs.com/en/) and
+[Keolis](https://www.keolis.com/en/) on the international side, and posts like
+[this one](https://www.instagram.com/p/DWcbL0BDZr1/) from the Japanese Embassy
+about hosting an Alto round table seem like further (if anecdotal) evidence of
+that. I'm not sure that speed is the actual priority, though. What's missing is
+a plan to push ticket prices down, and to increase reliability of alternatives
+to driving.
 
-- more of the same means more dependency on diesel and thus oil - what room is
-  there to consider building brand new infrastructure on this? There is an
-  argument to be made that we're already a decade or two behind the curve for
-  electrifying national infrastructure
-- Note that the project won't be done for 20 years - what is the safest energy
-  source to bet on with that time horizon? Probably not anything oil-based
+![Must we
+though?](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1uaDNteWV6c3MxendydXF5OW5lZzNidTFyZDhlZXZlNXgwcXVzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7XsFGzfP6WmC4/giphy.gif "There's no T-Rex chasing us, I think")
 
-  TBD
+I still want to look into other studies on this, but in my mind the threshold
+for choosing to ride the train every time as a family of four - assuming that
+something like VIA's
+[policy](https://www.viarail.ca/en/offers/canada-strong-pass) of children
+traveling for free is in effect for the trip, so only two adult tickets are
+required - comes in at about $200, or about 33% more than the driving estimate.
+This per-adult cost of about $100 is where I'd have to seriously consider
+leaving the car at home, keeping in mind that there's still a lot of other
+factors which make this kind of outing a fairly rare one. I'm assuming that
+people thinking about such a trip have the funds to allow those choices, though.
+To make it accessible to even more people regularly, it should ideally be pushed
+much lower, with corresponding investments in higher reliability and more
+frequent service. Apparently VIA Rail had a
+[report](https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/BackgroundPapers/PDF/2015-55-e.pdf)
+suggesting a similar model in 2015, at least on the expansion-of-service side.
 
-## Roads (and Rails) as Borders
+Speaking of VIA Rail again, their 2023 report listed operating expenses of
+$812.5 million and operating losses of $381.8 million, respectively. With ~40
+million people, those operating expenses work out to a little over $20 per
+person per year, with current fare costs. You have to wonder what a version of
+the VIA Rail service running at two, three, or even five times that number would
+look like, assuming the difference was split between expanded service and
+subsidizing of the fares themselves. The main issue that comes to mind with the
+expansion aspect is increased emissions and further reliance on one type of
+energy (diesel). Maybe there's an approach where slower electrified services are
+easier to build? This would require a lot of the same safety measures that Alto
+HSR would to deliver power to the trains (so the tracks would still be fenced
+and impassable without going over or under), but removing the wide turning
+radius required for high-speed operation may make it easier to avoid routing
+through critical habitats and properties whose owners are opposed to the current
+proposals. If such examples don't exist yet, then maybe this is a chance for us
+to show the rest of the world a new example.
 
-- Necropolitical look at the road and railway as a border, borderization effect,
-  danger/death association
-  - HSR is a more extreme example because of speed, electricity, more stringent
-    safety requirements
-- Further fragmentation of already disconnected ecosystems, communities
-- How do we elevate it? Are there new designs that solve some of these issues?
+Ultimately, I think that **public services should not be expected to turn a
+profit**, and if spending a little more means coming up with a solution that
+addresses this line of thinking, it may be the best path forward.
 
-TBD
+# Future Work
 
-# Degrowth and Taking Things Slower
+## International Studies and Other Media
 
-TBD
+A non-exhaustive list of papers which I've either read, or plan to read, around
+HSR projects elsewhere in the world:
 
-# Closing Thoughts
+1. [High Speed Rail Performance in France: From Appraisal Methodologies to
+   Ex-post
+   Evaluation](https://www.itf-oecd.org/sites/default/files/docs/dp201326.pdf)
+2. [The impacts of high-speed rail expansion on short-haul air passenger
+   transport - Evidence from German domestic and international
+   traffic](https://elib.dlr.de/215637/1/2025_Oesingmann_Ennen_Rail.pdf)
+3. [Spatial equity and high speed trains: the example of
+   France](https://shs.hal.science/halshs-01137902v3/file/Spatial_Equity_High_Speed_Trains_France.pdf)
+4. [Smart and Affordable Rail Services in the EU: a socio-economic and
+   environmental study for High-Speed in 2030 and
+   2050](https://rail-research.europa.eu/wp-content/uploads/2023/01/HSR_Technical_Report_1_Final_220123_v1_update.pdf)
+5. [The Development of High-Speed Rail in the Federal Republic of Germany
+   Between
+   2002-2020](https://www.researchgate.net/publication/366679534_THE_DEVELOPMENT_OF_HIGH-SPEED_RAIL_IN_THE_FEDERAL_REPUBLIC_OF_GERMANY_BETWEEN_2002-2020)
 
-# WIP Notes/Questions
+I'll have to find and read publications around African proposals, along with
+Chinese and Japanese systems, too. If video essays are more your thing, there
+are at least eight focused on train infrastructure on the [Wendover
+Productions](https://www.youtube.com/results?search_query=wendover+productions+high+speed+rail)
+channel (I can't recall which ones I've seen).
 
-- Electrification usually means fenced-off railways even for non-HSR services -
-  same challenges as any other long-distance power delivery. European rail lines
-  use a variety of configurations such as 25kV and 15kV AC, with some lower
-  (e.g. 750V DC) standouts too. Safety protocols/regulations tend to require
-  this to be fenced off, so the bisection problem for new infrastructure
-  persists in this case. Need good citations (see
-  [here](https://en.wikipedia.org/wiki/Railway_electrification#Classification)).
-  Possibly Metrolinx (Ontario)?
-- What does it cost to build new track, new trains?
-- What other global services could be used as inspiration?
-- VIA Rail [annual
-  report](https://media.viarail.ca/sites/default/files/publications/397_034_VIARAIL_ANNUAL-REPORT-2023.pdf)
-  suggests $430 million revenue, $382 million operating loss in 2023
-  - If we wanted to sustain the current infrastructure, expand it, and make it
-    more affordable (e.g. $10, $20 fares per person), how many years (decades)
-    would the current proposed costs for Alto HSR sustain it?
+## Trains of Thought
+
+Some related topics, which I may explore in the future:
+
+- Degrowth and slowing down - how is our perception of trip length changed if
+  our society finds ways to reduce the urgency with which we work and travel? I
+  suspect these ideas quickly intersect with problems of compressed or reduced
+  work weeks, remote work options, universal basic income (UBI) projects, and
+  other concepts meant to alleviate pressure on people to always be producing,
+  achieving, and doing.
+- Necropolitics and ecological borderization - what do fare costs, geographic
+  accessibility, and environmental consequences look like when infrastructure
+  projects are viewed as physical and economic borders? How do we ensure equity
+  across the population? What does it mean not only for the ecological systems
+  we are part of, but our changing relationships with our non-human kin?
+
+# Last Words
+
+In the week or so since I began writing this post, it feels like the activity
+around the Alto project on social media has grown (although with algorithmic
+feedback loops and the potential for fake accounts, it's hard for me to know how
+much without digging). I'm having a hard time keeping track of the many
+articles, letters written to parliament, and research papers on successes and
+failures in other HSR projects around the world. There's even been a [press
+conference](https://www.youtube.com/watch?v=gE6J9kReZic) from the leader of the
+federal opposition, with very predictable content - a firm "no" to Alto,
+lamentation about no "projects" (pipelines) being built, and so on - which
+really seemed like a combination of points from [The Nots](#the-nots).
+
+I am not an expert on the inner workings of federal government, so I can't be
+sure of the presser's political expediency. However, given that it seems like
+more of the same rhetoric used in recent elections, I'd guess one of three
+outcomes, in order of likelihood:
+
+1. It is seen as opportunistic positioning and/or a continuation of favouring
+   rural areas at the expense of urban ones - despite the CPC losing the
+   interest of those ridings in the near term - and is largely ignored;
+2. It motivates the LPC to push the Alto project even harder to avoid a loss of
+   confidence and a sudden election (although recent [floor
+   crossings](https://www.bbc.com/news/articles/c0e5jwz0703o) suggest that maybe
+   this isn't a problem);
+3. Two or more parties revisit the project and the budget, then consider
+   possible alternatives for rail expansion alongside other big projects to
+   shore up ailing industries and economic hardship.
+
+It's truly unfortunate that we're perpetually stuck in the middle of this
+back-and-forth dance. Maybe if plans to implement proportional representation in
+our electoral system (which, coincidentally, were promised and then cancelled by
+former PM Trudeau, who also happens to have
+[announced](https://www.pm.gc.ca/en/news/news-releases/2025/02/19/canada-getting-high-speed)
+the Alto project shortly before his retirement), we could have more transparency
+than it seems we're getting.  It might also mean more creative approaches to
+solving the growing transportation challenges that people face every day.
+
+# Special Thanks To
+
+- Justin for:
+  - Inspiring this dive in the first place
+  - Sharing your insights and concerns, particularly around the McGill paper
+  - Reviewing my drafts, and always being willing to chat
+
+- Amy for:
+  - Listening to me rant, at any time of day
+
+- Mitch for:
+  - A very relevant Gilles Duceppe meme
