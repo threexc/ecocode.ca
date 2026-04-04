@@ -8,18 +8,18 @@ toc = true
 
 # Introduction
 
-Recently, a good friend of mine brought up the
-[Alto](https://www.altotrain.ca/en) high-speed rail (HSR) project. My initial
-reaction was very enthusiastic, but I hadn't grounded myself in many of the
-details. Since then I've been pondering and researching the project almost
-daily, while trying to get a feel for local and regional positions on the
-matter. My general impression toward Alto is one of high skepticism, at best,
-and public sentiment (which, admittedly, I've picked up on primarily from social
-media and reports around public consultations from Alto's representatives) isn't
-optimistic either. Between concerns about cost, environmental impact, land
-expropriation, urban-rural divides, corruption, and maybe some simple NIMBYism,
-there are a lot of different angles to consider from the "no" camp. I find
-myself with thoughts, which you're about to read (stop while you can).
+Recently, a good friend of mine brought up the Alto[^1] high-speed rail (HSR)
+project. My initial reaction was very enthusiastic, but I hadn't grounded myself
+in many of the details. Since then I've been pondering and researching the
+project almost daily, while trying to get a feel for local and regional
+positions on the matter. My general impression toward Alto is one of high
+skepticism, at best, and public sentiment (which, admittedly, I've picked up on
+primarily from social media and reports around public consultations from Alto's
+representatives) isn't optimistic either. Between concerns about cost,
+environmental impact, land expropriation, urban-rural divides, corruption, and
+maybe some simple NIMBYism, there are a lot of different angles to consider from
+the "no" camp. I find myself with thoughts, which you're about to read (stop
+while you can).
 
 # The "Nots"
 
@@ -60,16 +60,18 @@ Here come some numbers for an example trip, using these assumptions:
 - The trip is assumed to begin on Friday, September 25th, 2026 (about six months
   from now). We're planning well in advance.
 - Where possible, these numbers were obtained by searching for flights and
-  trains via Google, using results for Westjet and VIA Rail, respectively. 
+  trains via Google, using results for Westjet and VIA Rail, respectively. They
+  do vary depending on time of year (and especially day of week - weekdays are
+  sometimes $40-50 cheaper for a round trip), but you can find similar numbers
+  by browsing the booking calendars.
 - Fuel cost assumes there and back, plus some city driving, in a mid-sized SUV.
   It's probably closer to $200 at current per-litre costs.
 - "Other Costs" is broad and meant to encompass everything from bus/subway fares
   to a one-off Uber ride, which can vary wildly in price. For the driver's case,
-  it's also meant to cover parking. As of today, TTC
-  [fares](https://www.ttc.ca/Fares-and-passes) are around $3.30 per ride for a
-  single adult. There are lots of variables here, and those who've made similar
-  trips before will likely attest to many mixed solutions they've come up with
-  to save cash.
+  it's also meant to cover parking. As of today, TTC fares[^2] are around $3.30
+  per ride for a single adult. There are lots of variables here, and those
+  who've made similar trips before will likely attest to many mixed solutions
+  they've come up with to save cash.
 - **The train and flight ticket prices are for a single adult** - for a family,
   driving is by far the most affordable option.
 - Time spent for the car assumes at least one short stop to stretch, use the
@@ -86,36 +88,33 @@ Here come some numbers for an example trip, using these assumptions:
 | Attention                                | Occupied          | Free         | Free          | Free          |
 
 It goes without saying that **all** of these options are expensive for someone
-earning the median or average incomes (using [2023
-numbers](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110023901)) of
-$45,400 or $59,400 per year, respectively, so it's easy to understand how
-critics would perceive this project to be by and for a much wealthier
-demographic. I don't see any indication that Alto expected to solve these
-problems of access and affordability. There are also hidden factors baked into
-those options to consider - for example, unless you use a carsharing service
-like [Communauto](https://ontario.communauto.com/), the first option means you
-need to own and maintain a vehicle, which is a frustrating and expensive
+earning the median or average incomes (using 2023's numbers[^3]) of $45,400 or
+$59,400 per year, respectively, so it's easy to understand how critics would
+perceive this project to be by and for a much wealthier demographic. I don't see
+any indication that Alto is expected to solve these problems of access and
+affordability. There are also hidden factors baked into those options to
+consider - for example, unless you use a carsharing service like
+[Communauto](https://ontario.communauto.com/), the first option means you need
+to own and maintain a vehicle, which is a frustrating and expensive
 barrier-to-entry for people to access many modes of living. When climate and
 environmental consequences are considered, all of them tend to look even worse
 (although Alto will be electric, which is a point in its favour). For
-comparison, here's table [from
-Wikipedia](https://en.wikipedia.org/wiki/Alto_(high-speed_rail)#Travel_times)
-showing estimated times:
+comparison, here's the table[^4] from Wikipedia showing estimated times:
 
 ![Ontario is big](table.png "To Drive, or Not to Drive?")
 
 ## What Will an Alto Fare Cost?
 
-I think that this is potentially the single most important question to be asked
-about this project: once all of the sacrifices are made despite myriad
-objections, will anyone actually be able (or want) to use it?  
+I think that this is the single most important question to be asked about this
+project: once all of the sacrifices are made despite myriad objections, will
+anyone actually be able (or want) to use it? This reminds me of another question
+which former BQ leader Gilles Duceppe once rightly asked, long ago:
 
 ![How much?](gilles.jpg "We're still waiting for the answer")
 
-To answer this, the best place to start looking may be a recent
-[study](https://tram.mcgill.ca/Research/Surveys/HSR_REPORT_2026.pdf) published
-by McGill in late 2025 (updated 2026), which my aforementioned friend pointed
-out. Notably, it is based on a survey which (after a data validation step) only
+For Alto, the best place to start looking may be a recent study[^5] published by
+McGill in late 2025 (updated 2026), which my aforementioned friend pointed out.
+Notably, it is based on a survey which (after a data validation step) only
 includes 8,276 responses, all of whom are distributed among the cities with
 proposed stops - so, excluding the many communities along the route but without
 direct access, along with everybody further afield in other regions of the
@@ -134,11 +133,10 @@ Two problems:
    and choose to drive anyway - especially when the apparent flexibility of
    driving versus being bound to train and public transit schedules is
    considered (and despite potential parking fees);
-2. **VIA Rail services seem unlikely to remain viable once Alto was complete** -
-   their 2023 [annual
-   report](https://media.viarail.ca/sites/default/files/publications/397_034_VIARAIL_ANNUAL-REPORT-2023.pdf)
-   mentions that **96%** of passenger trips were taken along the Quebec
-   City-Windsor corridor, at least not without a major re-imagining.
+2. **VIA Rail services seem unlikely to remain viable once Alto is complete** -
+   their 2023 annual report[^6] mentions that **96%** of passenger trips were
+   taken along the Quebec City-Windsor corridor - unless there's a major
+   re-imagining of their mandate.
 
 To reiterate, all of this is also assuming a single adult is making the trip -
 the argument falls apart pretty quickly with access to "cheap" fuel and a
@@ -155,32 +153,28 @@ population, then the real issue is that these services are already too expensive
 for most riders. I'm not quite as concerned about Alto's engineering aspects or
 the price tag - we can get ideas of what to expect from other countries who've
 worked on megaprojects before. To be fair, this is already happening -
-[Cadence](https://cadence.info/en/about-us) includes [SNCF
+Cadence[^7] (the organization slated to build Alto) includes [SNCF
 Voyageurs](https://www.sncf-voyageurs.com/en/) and
-[Keolis](https://www.keolis.com/en/) on the international side, and posts like
-[this one](https://www.instagram.com/p/DWcbL0BDZr1/) from the Japanese Embassy
-about hosting an Alto round table seem like further (if anecdotal) evidence of
-that. I'm not sure that speed is the actual priority, though. What's missing is
-a plan to push ticket prices down, and to increase reliability of alternatives
-to driving.
+[Keolis](https://www.keolis.com/en/) on the international side, and a post[^8]
+from the Japanese Embassy about hosting an Alto round table seems like further
+(if anecdotal) evidence of that. I'm not sure that speed is the actual priority,
+though. What's missing is a plan to push ticket prices down, and to increase
+reliability of alternatives to driving.
 
 ![Must we
 though?](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1uaDNteWV6c3MxendydXF5OW5lZzNidTFyZDhlZXZlNXgwcXVzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7XsFGzfP6WmC4/giphy.gif "There's no T-Rex chasing us, I think")
 
-I still want to look into other studies on this, but in my mind the threshold
+I still want to look into other studies on this, but **in my mind the threshold
 for choosing to ride the train every time as a family of four - assuming that
-something like VIA's
-[policy](https://www.viarail.ca/en/offers/canada-strong-pass) of children
-traveling for free is in effect for the trip, so only two adult tickets are
-required - comes in at about $200, or about 33% more than the driving estimate.
-This per-adult cost of about $100 is where I'd have to seriously consider
-leaving the car at home, keeping in mind that there's still a lot of other
-factors which make this kind of outing a fairly rare one. I'm assuming that
-people thinking about such a trip have the funds to allow those choices, though.
-To make it accessible to even more people regularly, it should ideally be pushed
-much lower, with corresponding investments in higher reliability and more
-frequent service. Apparently VIA Rail had a
-[report](https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/BackgroundPapers/PDF/2015-55-e.pdf)
+something like VIA's policy[^9] of children traveling for free is in effect for
+the trip, so only two adult tickets are required - comes in at about $200**, or
+about 33% more than the driving estimate. This per-adult cost of about $100 is
+where I'd have to seriously consider leaving the car at home, keeping in mind
+that there's still a lot of other factors which make this kind of outing a
+fairly rare one. I'm assuming that people thinking about such a trip have the
+funds to allow those choices, though. **To make it accessible to more people, it
+should be pushed much lower, with corresponding investments in higher
+reliability and more frequent service**. Apparently there was a report[^10]
 suggesting a similar model in 2015, at least on the expansion-of-service side.
 
 Speaking of VIA Rail again, their 2023 report listed operating expenses of
@@ -228,9 +222,8 @@ HSR projects elsewhere in the world:
 
 I'll have to find and read publications around African proposals, along with
 Chinese and Japanese systems, too. If video essays are more your thing, there
-are at least eight focused on train infrastructure on the [Wendover
-Productions](https://www.youtube.com/results?search_query=wendover+productions+high+speed+rail)
-channel (I can't recall which ones I've seen).
+are at least eight focused on train infrastructure on the Wendover Productions
+channel[^11] (I can't recall which ones I've seen).
 
 ## Trains of Thought
 
@@ -254,12 +247,12 @@ In the week or so since I began writing this post, it feels like the activity
 around the Alto project on social media has grown (although with algorithmic
 feedback loops and the potential for fake accounts, it's hard for me to know how
 much without digging). I'm having a hard time keeping track of the many
-articles, letters written to parliament, and research papers on successes and
-failures in other HSR projects around the world. There's even been a [press
-conference](https://www.youtube.com/watch?v=gE6J9kReZic) from the leader of the
-federal opposition, with very predictable content - a firm "no" to Alto,
-lamentation about no "projects" (pipelines) being built, and so on - which
-really seemed like a combination of points from [The Nots](#the-nots).
+articles, letters written to Parliament, and research papers on successes and
+failures in other HSR projects around the world. There's even been a press
+conference[^12] from the leader of the federal opposition, with very predictable
+content - a firm "no" to Alto, lamentation about no "projects" (pipelines) being
+built, and so on - which really seemed like a combination of points from [The
+Nots](#the-nots).
 
 I am not an expert on the inner workings of federal government, so I can't be
 sure of the presser's political expediency. However, given that it seems like
@@ -270,9 +263,8 @@ outcomes, in order of likelihood:
    rural areas at the expense of urban ones - despite the CPC losing the
    interest of those ridings in the near term - and is largely ignored;
 2. It motivates the LPC to push the Alto project even harder to avoid a loss of
-   confidence and a sudden election (although recent [floor
-   crossings](https://www.bbc.com/news/articles/c0e5jwz0703o) suggest that maybe
-   this isn't a problem);
+   confidence and a sudden election (although recent floor crossings[^13]
+   suggest that maybe this isn't a problem);
 3. Two or more parties revisit the project and the budget, then consider
    possible alternatives for rail expansion alongside other big projects to
    shore up ailing industries and economic hardship.
@@ -280,11 +272,11 @@ outcomes, in order of likelihood:
 It's truly unfortunate that we're perpetually stuck in the middle of this
 back-and-forth dance. Maybe if plans to implement proportional representation in
 our electoral system (which, coincidentally, were promised and then cancelled by
-former PM Trudeau, who also happens to have
-[announced](https://www.pm.gc.ca/en/news/news-releases/2025/02/19/canada-getting-high-speed)
-the Alto project shortly before his retirement), we could have more transparency
-than it seems we're getting.  It might also mean more creative approaches to
-solving the growing transportation challenges that people face every day.
+former PM Trudeau, who also happens to have announced[^14] the Alto project
+shortly before his retirement) hadn't been cancelled, we could have more
+transparency than it seems we're getting. It might also mean more creative
+approaches to solving the growing transportation challenges that people face
+every day.
 
 # Special Thanks To
 
@@ -298,3 +290,20 @@ solving the growing transportation challenges that people face every day.
 
 - Mitch for:
   - A very relevant Gilles Duceppe meme
+
+# References
+
+[^1]: Alto (2026). *Alto: Shaping Canada's Future With a High-Speed Train*. <https://www.altotrain.ca/en>
+[^2]: Toronto Transit Commission (2026, April 02). *Information about TTC fares and passes*. <https://www.ttc.ca/Fares-and-passes>
+[^3]: Statistics Canada (2025, May 01). *Income of individuals by age group, sex and income source, Canada, provinces and selected census metropolitan areas.* <https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110023901>
+[^4]: Alto (high-speed rail) (2026, April 04). In *Wikipedia*. <https://en.wikipedia.org/w/index.php?title=Alto_(high-speed_rail)&oldid=1346827990>
+[^5]: Billie Zhang, Hisham Negm, & Ahmed El-Geneidy (2025). *High-Speed Rail in Canada: Insights from a corridorwide survey & a financial analysis*. <https://tram.mcgill.ca/Research/Surveys/HSR_REPORT_2026.pdf>
+[^6]: VIA Rail (2024, March 21). *2023 ANNUAL REPORT*. VIA Rail Canada. <https://media.viarail.ca/sites/default/files/publications/397_034_VIARAIL_ANNUAL-REPORT-2023.pdf>
+[^7]: Cadence (2025). *About us*. Cadence. <https://cadence.info/en/about-us>
+[^8]: The Embassy of Japan in Canada [@japan_embassy_canada] (2026). *Can Japan contribute to high speed rail in Canada? We welcome your comments* [Photograph]. Instagram. <https://www.instagram.com/p/DWcbL0BDZr1>
+[^9]: VIA Rail (2026). *Canada Strong Pass*. VIA Rail Canada. <https://www.viarail.ca/en/offers/canada-strong-pass>
+[^10]: Jean Dupuis (2015, August 31). *VIA Rail Canada Inc. and the Future of Passenger Rail in Canada.* Parliamentary Information and Research Service. <https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/BackgroundPapers/PDF/2015-55-e.pdf>
+[^11]: Wendover Productions. *Videos* [YouTube Channel]. Retrieved April 04, 2026, from <https://www.youtube.com/@Wendoverproductions/videos>
+[^12]: CBC News. (2026, March 31). *Poilievre holds news conference in Peterborough, Ont.* [Video]. YouTube. <https://www.youtube.com/watch?v=gE6J9kReZic>
+[^13]: Murphy, J, Yousif, N. (2026, March 11). *Carney inches closer to majority, as fourth MP defects to Liberals.* BBC News. <https://www.bbc.com/news/articles/c0e5jwz0703o>
+[^14]: Prime Minister of Canada (2025, February 19). *Canada is getting high-speed rail*. Government of Canada. <https://www.pm.gc.ca/en/news/news-releases/2025/02/19/canada-getting-high-speed>
