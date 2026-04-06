@@ -71,6 +71,7 @@ sections = [
     { name = "links", path = "/links", is_external = false },
     { name = "posts", path = "/posts", is_external = false },
     { name = "projects", path = "/projects", is_external = false },
+    { name = "reading", path = "/reading", is_external = false },
     { name = "uses", path = "/uses", is_external = false },
 ]
 toc = true
