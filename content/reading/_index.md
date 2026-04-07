@@ -12,15 +12,17 @@ copy = false
 comment = false
 +++
 
-This is my reading list, categorized from most recent to oldest and by year when
-possible. For links, I default to author website, publisher website, and/or
-independent booksellers - whichever comes up first in a search.
+# The Big Reading List
 
-# Current
+This is categorized from most recent to oldest and by year when possible. For
+links, I default to author website, publisher website, and/or independent
+booksellers - whichever comes up first in a search.
+
+## Current
 
 [Jonny Appleseed](https://arsenalpulp.com/Books/J/Jonny-Appleseed) by Joshua Whitehead
 
-# 2026
+## 2026
 
 - [The Mercy of Gods](https://www.jamessacorey.com/books/the-mercy-of-gods/), James S. A. Corey
 - [The Foucault Reader](https://www.penguinrandomhouse.ca/books/55035/the-foucault-reader-by-michel-foucault/9780394713403), Michel Foucault
@@ -40,7 +42,7 @@ independent booksellers - whichever comes up first in a search.
   - This book was a very underwhelming start to the year. I should've seen the
     gimmick-y read coming.
 
-# 2025
+## 2025
 
 50 books in all this year - this could be a lifetime peak. I owe it to having an
 infant and travelling.
@@ -201,7 +203,7 @@ infant and travelling.
 
   - One of several religion-oriented AVSI books I had planned to read in 2025.
 
-# 2024
+## 2024
 
-# 2023
+## 2023
 
