@@ -288,6 +288,7 @@ infant and travelling.
   - Plastic as a material reflection of societies' expectations about the world,
     its long-term consequences as part of our identity, and a form of kin for
     the future.
+
 - [Batman: Hush](https://www.dc.com/graphic-novels/batman-hush), Jeph Loeb, Jim Lee, Scott Williams
 - [Radicalized](https://craphound.com/category/radicalized-full/), Cory Doctorow
 - [Stonehenge](https://www.bernardcornwell.net/series/stonehenge/), Bernard Cornwell
@@ -310,4 +311,24 @@ infant and travelling.
 
 ## Older
 
--  
+Non-exhaustive:
+
+- The Expanse Series from [James S.A. Corey](https://www.jamessacorey.com/writing-type/books/)
+- *Mort*, *Reaper Man*, *Soul Music*, *Hogfather*, and *Thief of Time*, [Terry Pratchett](https://www.terrypratchettbooks.com/)
+- *The Dark Elf Trilogy*, [R.A. Salvatore](https://www.rasalvatore.com/), along
+  with some other random installments in the series
+- [The Indigenous Paleolithic of the Western Hemisphere](https://www.nebraskapress.unl.edu/nebraska/9781496202178/the-indigenous-paleolithic-of-the-western-hemisphere/), Paulette F.C. Steeves
+- [A Wizard of Earthsea](https://www.penguinrandomhouse.ca/books/547469/a-wizard-of-earthsea-by-ursula-k-le-guin/9780141354910), Ursula K. Le Guin
+- [The Great Silence](https://global.oup.com/academic/product/the-great-silence-9780199646302), Milan M. Ćirković
+- [The Rise and Fall of the Dinosaurs](https://www.harpercollins.com/products/the-rise-and-fall-of-the-dinosaurs-steve-brusatte), Steve Brusatte
+- [Elephant Memories: Thirteen Years in the Life of an Elephant Family](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3642478.html), Cynthia J. Moss
+- [Antarctica: An Intimate Portrait of the World's Most Mysterious Continent](https://gabriellewalker.com/book/antarctica/), Gabrielle Walker
+- [1491: New Revelations of the Americas Before Columbus](https://www.penguinrandomhouse.ca/books/107178/1491-by-charles-c-mann/9781400040063), Charles C. Mann
+- [How Europe Underdeveloped Africa](https://www.versobooks.com/en-ca/products/788-how-europe-underdeveloped-africa), Walter Rodney
+- [21 Things You May Not Know About the Indian Act](https://21things.ca/), Bob Joseph
+- [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), Robin Wall Kimmerer
+- [Warfare in Neolithic Europe: An Archaeological and Anthropological Analysis](https://www.vitalsource.com/en-ca/products/warfare-in-neolithic-europe-julian-maxwell-heath-v9781473879881), Julian Maxwell
+- [Twilight of the Mammoths: Ice Age Extinctions and the Rewilding of America](https://www.ucpress.edu/books/twilight-of-the-mammoths/paper), Paul S. Martin
+- [Made to Order: Robots and Revolution](https://parnassusbooks.net/book/9781781087879), Various
+- [Open Veins of Latin America](https://utpdistribution.com/9780853459910/open-veins-of-latin-america/), Eduardo Galeano
+- [Cosmos](https://www.penguinrandomhouse.ca/books/159730/cosmos-by-carl-sagan/9780345539434), Carl Sagan
