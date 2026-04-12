@@ -20,10 +20,11 @@ booksellers - whichever comes up first in a search.
 
 ## Current
 
-[Jonny Appleseed](https://arsenalpulp.com/Books/J/Jonny-Appleseed) by Joshua Whitehead
+[Stone Sword Table](https://www.penguinrandomhouse.com/books/634028/sword-stone-table-by-edited-by-swapna-krishna-and-jenn-northington/), Various
 
 ## 2026
 
+- [Jonny Appleseed](https://arsenalpulp.com/Books/J/Jonny-Appleseed) Joshua Whitehead
 - [The Mercy of Gods](https://www.jamessacorey.com/books/the-mercy-of-gods/), James S. A. Corey
 - [The Foucault Reader](https://www.penguinrandomhouse.ca/books/55035/the-foucault-reader-by-michel-foucault/9780394713403), Michel Foucault
 
@@ -204,6 +205,65 @@ infant and travelling.
   - One of several religion-oriented AVSI books I had planned to read in 2025.
 
 ## 2024
+
+- [Afterglow: Climate Fiction for Future Ancestors](https://thenewpress.org/books/afterglow/), Various
+- [Blood Meridian](https://www.penguinrandomhouse.ca/books/110472/blood-meridian-by-cormac-mccarthy/9780679641049), Cormac McCarthy
+- [The Serviceberry](https://www.simonandschuster.ca/books/The-Serviceberry/Robin-Wall-Kimmerer/9781668072240), Robin Wall Kimmerer
+
+  - This felt like a very compact and actionable version of her previous book,
+    *Braiding Sweetgrass*. I recommend it.
+
+- [Snow Crash](https://www.nealstephenson.com/snow-crash.html), Neal Stephenson
+- [The Society of the Spectacle](https://www.zonebooks.org/books/3-the-society-of-the-spectacle), Guy Debord
+- [An African American and Latinx History of the United States](https://www.penguinrandomhouse.com/books/554578/an-african-american-and-latinx-history-of-the-united-states-by-paul-ortiz/), Paul Ortiz
+- [Teenage Mutant Ninja Turtles: The IDW Collection Volume 1](https://idwpublishing.com/products/tmnt-the-idw-collection-vol-2), Kevin Eastman, Tom Waltz, Erik Burnham
+- [Astonishing X-Men, Volume 1: Gifted](https://www.penguinrandomhouse.com/books/747377/astonishing-x-men-modern-era-epic-collection-gifted-by-joss-whedon/), Joss Whedon
+- [Jurassic Park](https://michaelcrichton.com/works/jurassic-park/), Michael Crichton
+- [The Invention of Prehistory](https://www.penguinrandomhouse.ca/books/748368/the-invention-of-prehistory-by-stefanos-geroulanos/9781324096122), Stefanos Geroulanos
+- [Slow Down: The Degrowth Manifesto](https://www.penguinrandomhouse.ca/books/734853/slow-down-by-kohei-saito/9781662602368), Kohei Saito
+- [The Solutions Are Already Here: Strategies of Ecological Revolution From Below](https://www.plutobooks.com/product/the-solutions-are-already-here/), Peter Gelderloos
+- [Anarchism and Other Essays](https://store.doverpublications.com/products/9780486224848), Emma Goldman
+- [Moon of the Turning Leaves](https://www.penguinrandomhouse.ca/books/665341/moon-of-the-turning-leaves-by-waubgeshig-rice/9780735281585), Waubgeshig Rice
+
+  - An incredible follow-up to *Moon of the Crusted Snow*. 
+
+- [Necropolitics](https://www.dukeupress.edu/necropolitics), Achille Mbembe
+
+  - Short but very insightful and hopeful (despite the title). Draws on Foucault
+    and Fanon to describe the concept of necropolitics, ideas of the Other,
+    applications of bio-power, and borderization. There's also some stuff in
+    there about artificial intelligence-type developments. Apparently based on
+    an earlier [essay](https://muse.jhu.edu/article/39984/summary).
+
+- [Hyperobjects](https://www.upress.umn.edu/9780816689231/hyperobjects/), Timothy Morton
+
+  - The idea of a hyperobject (i.e. an object or concept distributed through
+    both time and space, which has nonlinear, aperiodic influence on other
+    objects; climate change is the primary example) seems useful, but I agree
+    with many other reviews which suggest the book is too vague and the existing
+    definition too broad.
+
+- [Elephants on the Edge](https://gabradshaw.com/elephants-on-the-edge/), G.A. Bradshaw
+- [The Fire Next Time](https://www.penguinrandomhouse.ca/books/7753/the-fire-next-time-by-james-baldwin/9780679744726), James Baldwin
+- [Hood Feminism](https://www.penguinrandomhouse.ca/books/586743/hood-feminism-by-mikki-kendall/9780525560562), Mikki Kendall
+- [Moon of the Crusted Snow](https://ecwpress.com/products/moon-of-the-crusted-snow), Waubgeshig Rice
+
+  - This was a very vivid and intense read, experiencing how a community
+    struggles to get by in the wake of civilizational collapse.
+
+- [Gideon the Ninth](https://read.macmillan.com/lp/gideon-the-ninth-by-tamsyn-muir/), Tamsyn Muir
+
+  - Booktok recommendation. Stopped going on Booktok after.
+
+- [Debt: The First 5,000 Years](https://davidgraeber.org/books/debt-the-first-5000-years/), David Graeber
+- [The Only Good Indians](https://www.simonandschuster.ca/books/The-Only-Good-Indians/Stephen-Graham-Jones/The-Only-Good-Indians/9781982136468), Stephen Graham Jones
+- [Bullshit Jobs](https://www.simonandschuster.ca/books/Bullshit-Jobs/David-Graeber/9781501143335), David Graeber
+- [The Hundred Years' War on Palestine](https://us.macmillan.com/books/9781627798556/thehundredyearswaronpalestine/), Rashid Khalidi
+- [The Causal Angel](https://torpublishinggroup.com/the-causal-angel/?isbn=9780765381279&format=trade), Hannu Rajaniemi
+- [Between Two Fires](https://www.mcnallyrobinson.com/9781250439208/christophe-buehlman/between-two-fires), Christopher Buehlman
+- [The Jakarta Method](https://vincentbevins.com/book/), Vincent Bevins
+- [A Short History of the Blockade: Giant Beavers, Diplomacy, and Regeneration in Nishnaabewin](https://ualbertapress.ca/9781772125382/a-short-history-of-the-blockade/), Leanne Betasamosake Simpson
+- [The Fractal Prince](https://us.macmillan.com/books/9780765336798/thefractalprince/), Hannu Rajaniemi
 
 ## 2023
 
