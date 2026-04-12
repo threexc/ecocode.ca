@@ -14,9 +14,12 @@ comment = false
 
 # The Big Reading List
 
-This is categorized from most recent to oldest and by year when possible. For
-links, I default to author website, publisher website, and/or independent
-booksellers - whichever comes up first in a search.
+I primarily use [The Storygraph](https://thestorygraph.com/) for tracking my
+reads, but I'll post them here too. The list is categorized from most recent to
+oldest and by year when possible. For links, I default to author website,
+publisher website, and/or independent booksellers - whichever comes up first in
+a search. Editions may not necessarily match. I don't include my DNF ("Did Not
+Finish") books, which would probably increase the list length by 20-30%.
 
 ## Current
 
@@ -267,3 +270,44 @@ infant and travelling.
 
 ## 2023
 
+- [Freedom is a Constant Struggle](https://www.haymarketbooks.org/books/780-freedom-is-a-constant-struggle), Angela Y. Davis
+- [The Last Ronin](https://www.penguinrandomhouse.ca/books/676149/teenage-mutant-ninja-turtles-the-last-ronin-by-kevin-eastman-peter-laird-tom-waltz-esau-escorza-isaac-escorza/9781684058419), Kevin Eastman, Peter Laird, Tom Waltz
+- [Discourse on Colonialism](https://nyupress.org/9781583670255/discourse-on-colonialism/), Aimé Césaire
+- [The Rise and Reign of the Mammals](https://www.harpercollins.com/products/the-rise-and-reign-of-the-mammals-steve-brusatte), Steve Brusatte
+
+  - Lots of very interesting post-dinosaur evolutionary and ecological
+    developments leading up to the current area that don't get enough attention.
+
+- [Traditional Ecological Knowledge: Learning From Indigenous Practices for Environmental Stability](https://birchbarkbooks.com/products/traditional-ecological-knowledge), Various
+- [The Quantum Thief](https://gwern.net/review/quantum-thief), Hannu Rajaniemi
+- [Canadian Labour in Crisis: Reinventing the Workers' Movement](https://fernwoodpublishing.ca/book/canadian-labour-in-crisis), David Camfield
+- [Sunvault: Stories of Solarpunk and Eco-Speculation](https://firestorm.coop/products/19988-sunvault.html), Various
+- [X-Men: God Loves, Man Kills](https://www.penguinrandomhouse.com/books/746638/x-men-epic-collection-god-loves-man-kills-by-chris-claremont/), Chris Claremont
+- [Plastic Matter](https://www.dukeupress.edu/plastic-matter), Heather Davis
+
+  - Plastic as a material reflection of societies' expectations about the world,
+    its long-term consequences as part of our identity, and a form of kin for
+    the future.
+- [Batman: Hush](https://www.dc.com/graphic-novels/batman-hush), Jeph Loeb, Jim Lee, Scott Williams
+- [Radicalized](https://craphound.com/category/radicalized-full/), Cory Doctorow
+- [Stonehenge](https://www.bernardcornwell.net/series/stonehenge/), Bernard Cornwell
+- [The End of This World: Climate Justice in So-Called Canada](https://btlbooks.com/book/the-end-of-this-world), Various
+- [Transgender History: A Resource for Today's Struggle - and Tomorrow's](https://www.hachettebookgroup.com/titles/susan-stryker/transgender-history-third-edition/9781541605886/?lens=seal-press), Susan Stryker
+- [The Return of the King](https://www.harpercollins.com/products/the-return-of-the-king-jrr-tolkien), J.R.R. Tolkien
+- [The Two Towers](https://www.harpercollins.com/products/the-two-towers-jrr-tolkien), J.R.R. Tolkien
+- [Kindred: Neanderthal Life, Love, Death, and Art](https://www.rebeccawraggsykes.com/kindred), Rebecca Wragg Sykes
+- [The Fellowship of the Ring](https://www.harpercollins.com/products/the-fellowship-of-the-ring-jrr-tolkien), J.R.R. Tolkien
+- [The Hobbit](https://www.harpercollins.com/products/the-hobbit-jrr-tolkien), J.R.R. Tolkien
+- [Black Skin, White Masks](https://rep.club/products/black-skin-white-masks), Frantz Fanon
+- [The Demon-Haunted World](https://www.penguinrandomhouse.com/books/159731/the-demon-haunted-world-by-carl-sagan/), Carl Sagan
+
+## 2022
+
+- [Archaeology of the Night](https://www.ubcpress.ca/archaeology-of-the-night), Various
+- [The Will to Change](https://www.simonandschuster.com/books/The-Will-to-Change/bell-hooks/9780743456081), bell hooks
+- [The Dispossessed](https://www.ursulakleguin.com/dispossessed), Ursula K. Le Guin
+- [Bleeding Edge](https://www.penguinrandomhouse.ca/books/306761/bleeding-edge-by-thomas-pynchon/9780143125754), Thomas Pynchon
+
+## Older
+
+-  
