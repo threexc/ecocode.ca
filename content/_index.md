@@ -24,4 +24,4 @@ recent_max = 15
 recent_more_text = "more »"
 +++
 
-Some posts
+A personal blog about [eco|techno]logy and other things
