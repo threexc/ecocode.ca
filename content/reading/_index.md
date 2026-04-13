@@ -48,9 +48,6 @@ Finish") books, which would probably increase the list length by 20-30%.
 
 ## 2025
 
-50 books in all this year - this could be a lifetime peak. I owe it to having an
-infant and travelling.
-
 - [The Stone Sky](https://store.orbit-books.co.uk/products/the-stone-sky), N. K. Jemisin
   
   - This entire trilogy was great. Jemisin is a new favourite author of mine. 
