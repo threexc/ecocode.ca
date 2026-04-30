@@ -23,10 +23,11 @@ Finish") books, which would probably increase the list length by 20-30%.
 
 ## Current
 
-[Stone Sword Table](https://www.penguinrandomhouse.com/books/634028/sword-stone-table-by-edited-by-swapna-krishna-and-jenn-northington/), Various
+- [The Lions of Al-Rassan](https://www.penguinrandomhouse.ca/books/391419/the-lions-of-al-rassan-by-guy-gavriel-kay/9780143194064), Guy Gavriel Kay
 
 ## 2026
 
+- [Stone Sword Table](https://www.penguinrandomhouse.com/books/634028/sword-stone-table-by-edited-by-swapna-krishna-and-jenn-northington/), Various
 - [Jonny Appleseed](https://arsenalpulp.com/Books/J/Jonny-Appleseed) Joshua Whitehead
 - [The Mercy of Gods](https://www.jamessacorey.com/books/the-mercy-of-gods/), James S. A. Corey
 - [The Foucault Reader](https://www.penguinrandomhouse.ca/books/55035/the-foucault-reader-by-michel-foucault/9780394713403), Michel Foucault
